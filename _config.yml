@@ -1,0 +1,10 @@
+# Pohjois-Suomen Islamilainen Yhdyskunta – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Pohjois-Suomen Islamilainen Yhdyskunta"
+description: "Pohjois-Suomen Islamilainen Yhdyskunta, Linnankatu 23-25, Oulu. Rukousajat, tapahtumat ja toiminta."
+moskeija: pohjois-suomen-islamilainen-yhdyskunta     # tiedosto _moskeijat/pohjois-suomen-islamilainen-yhdyskunta.md
+
+# Osoite: https://suomen-moskeijat.github.io/pohjois-suomen-islamilainen-yhdyskunta/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/pohjois-suomen-islamilainen-yhdyskunta"
